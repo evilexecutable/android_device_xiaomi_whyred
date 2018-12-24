@@ -1,0 +1,2 @@
+*.apk filter=lfs diff=lfs merge=lfs -text
+gcam/prebuild/gcam.apk filter=lfs diff=lfs merge=lfs -text
