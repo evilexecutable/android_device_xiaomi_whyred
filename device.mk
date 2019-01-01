@@ -425,8 +425,8 @@ PRODUCT_COPY_FILES += \
     prebuilts/vndk/v27/arm64/arch-arm64-armv8-a/shared/vndk-core/android.frameworks.sensorservice@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/android.frameworks.sensorservice@1.0-v27.so
 
 # WFD
-PRODUCT_BOOT_JARS += \
-    WfdCommon
+#DUCT_BOOT_JARS += \
+   # WfdCommon
 
 # Wifi
 PRODUCT_PACKAGES += \
