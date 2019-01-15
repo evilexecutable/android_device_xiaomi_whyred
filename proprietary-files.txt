@@ -1211,7 +1211,10 @@ vendor/lib64/libqti-perfd-client.so|d9fb126fb7aff2db61978f46f78e0284e95183be
 vendor/lib64/libqti-perfd.so|7421e7e11bea5dda7a75b18bc0f5dd88f1a4d3af
 vendor/lib64/libqti-util.so|30dc90c1636fd100a8e101dfa659e0b7299ff813
 vendor/lib64/vendor.qti.hardware.perf@1.0.so|978a16bc6f27967f6345c5b51386d50768553ab5
+<<<<<<< HEAD
 
+=======
+>>>>>>> df8a102... whyred: proprietary: Update perf blobs from Mi8 Lite
 
 # Peripheral manager - from MI 8 Lite platina-user 9 PKQ1.181007.001 8.12.13 release-keys
 vendor/bin/pm-proxy|e5f8c69e8d231dd2665dc411b4e9d9e696c90187
