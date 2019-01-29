@@ -14,10 +14,6 @@
     "branch": "pie-whyred"
   },
   {
-    "repository": "clang-prebuilt",
-    "target_path": "prebuilts/clang/host/linux-x86/clang-7.0.2"
-  },
-  {
     "repository": "android_packages_resources_devicesettings",
     "target_path": "packages/resources/devicesettings"
   }
