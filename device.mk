@@ -405,7 +405,7 @@ PRODUCT_PACKAGES += \
 
 # Telephony
 PRODUCT_PACKAGES += \
-    telephony-ext
+    qti-telephony-jar
 
 PRODUCT_BOOT_JARS += \
     telephony-ext
@@ -452,3 +452,4 @@ PRODUCT_COPY_FILES += \
 # Wi-Fi Display
 #PRODUCT_BOOT_JARS += \
 #    WfdCommon
+
