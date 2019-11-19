@@ -31,9 +31,9 @@ $(call inherit-product, vendor/MiuiCamera/config.mk)
 # Inherit some common PixelExperience stuff.
 TARGET_BOOT_ANIMATION_RES := 1080
 TARGET_GAPPS_ARCH := arm64
-$(call inherit-product, vendor/aosp/config/common_full_phone.mk)
+$(call inherit-product, vendor/bliss/config/common_full_phone.mk)
 
-PRODUCT_NAME := aosp_whyred
+PRODUCT_NAME := bliss_whyred
 PRODUCT_BRAND := Xiaomi
 PRODUCT_DEVICE := whyred
 PRODUCT_MANUFACTURER := Xiaomi
